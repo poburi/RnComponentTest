@@ -1,1 +1,1 @@
-export { default as PopupScreen } from './Popup01';
+export { default as PopupScreen } from './PopupUseModal';
